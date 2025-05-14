@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **SaritaNaradele87/SaritaNaradele87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi there, I'm Sarita Naradele 👋</h1>
@@ -85,7 +85,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaritaNaradele87&layout=compact&theme=radical" />
 </p>
  
----
+
  
 ### 🚀 Connect with Me:
 <p align="center">
